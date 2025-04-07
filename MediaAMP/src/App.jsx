@@ -2,7 +2,7 @@ import { ClerkProvider, SignedIn, SignedOut, RedirectToSignIn } from '@clerk/cle
 import { Routes, Route } from "react-router-dom";
 import { useState } from "react"; // ✅ ADDED for managing state
 import Home from "./component/Home/Home";
-import Header from "./component/Header/header";
+import Header from "./component/Header/Header";
 import Footer from "./component/Footer/footer";
 import SignIn from "./component/LoginSignup/SignIn";
 import SignUp from "./component/LoginSignup/SignUp";
