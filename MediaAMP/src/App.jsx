@@ -30,14 +30,14 @@ function App() {
      
         <Route path="/contactus" element={<ContactUs />} />
 
-        {/* Existing auth routes */}
+       
         <Route path="/sign-in" element={<SignIn />} />
         <Route path="/sign-up" element={<SignUp />} />
 
         <Route path="/" element={
           <>
             <SignedIn>
-              {/* ✅ Home now uses state props */}
+             
               <Home
                 searchTerm={searchTerm}
                 selectedPlatform={selectedPlatform}
