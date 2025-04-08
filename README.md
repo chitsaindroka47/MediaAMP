@@ -26,9 +26,7 @@ MediaAMP is a stylish and powerful game discovery platform built with React and 
 - Custom CSS Theme
 
 ## 🌐 Live Demo
-
-> _Coming Soon_
-
-
+https://mediaamp-nu.vercel.app/
+It requires login once for a device please do patiencely
 
 
