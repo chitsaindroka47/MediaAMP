@@ -24,7 +24,7 @@ MediaAMP is a stylish and powerful game discovery platform built with React and 
 - React Router
 - Bootstrap Icons (CDN)
 - Custom CSS Theme
-
+-Clerk|Authentication API
 ## 🌐 Live Demo
 https://mediaamp-nu.vercel.app/
 It requires login once for a device please do patiencely
